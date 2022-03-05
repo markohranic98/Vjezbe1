@@ -1,0 +1,8 @@
+C:\Users\Marko\source\repos\Vjezbe1\StarostOsobe\StarostOsobe\bin\Debug\StarostOsobe.exe.config
+C:\Users\Marko\source\repos\Vjezbe1\StarostOsobe\StarostOsobe\bin\Debug\StarostOsobe.exe
+C:\Users\Marko\source\repos\Vjezbe1\StarostOsobe\StarostOsobe\bin\Debug\StarostOsobe.pdb
+C:\Users\Marko\source\repos\Vjezbe1\StarostOsobe\StarostOsobe\obj\Debug\StarostOsobe.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\Vjezbe1\StarostOsobe\StarostOsobe\obj\Debug\StarostOsobe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\source\repos\Vjezbe1\StarostOsobe\StarostOsobe\obj\Debug\StarostOsobe.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Vjezbe1\StarostOsobe\StarostOsobe\obj\Debug\StarostOsobe.exe
+C:\Users\Marko\source\repos\Vjezbe1\StarostOsobe\StarostOsobe\obj\Debug\StarostOsobe.pdb
