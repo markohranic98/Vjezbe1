@@ -1,0 +1,8 @@
+C:\Users\Marko\source\repos\Vjezbe1\IzbornikISortiranje\IzbornikISortiranje\bin\Debug\IzbornikISortiranje.exe.config
+C:\Users\Marko\source\repos\Vjezbe1\IzbornikISortiranje\IzbornikISortiranje\bin\Debug\IzbornikISortiranje.exe
+C:\Users\Marko\source\repos\Vjezbe1\IzbornikISortiranje\IzbornikISortiranje\bin\Debug\IzbornikISortiranje.pdb
+C:\Users\Marko\source\repos\Vjezbe1\IzbornikISortiranje\IzbornikISortiranje\obj\Debug\IzbornikISortiranje.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\Vjezbe1\IzbornikISortiranje\IzbornikISortiranje\obj\Debug\IzbornikISortiranje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\source\repos\Vjezbe1\IzbornikISortiranje\IzbornikISortiranje\obj\Debug\IzbornikISortiranje.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Vjezbe1\IzbornikISortiranje\IzbornikISortiranje\obj\Debug\IzbornikISortiranje.exe
+C:\Users\Marko\source\repos\Vjezbe1\IzbornikISortiranje\IzbornikISortiranje\obj\Debug\IzbornikISortiranje.pdb
