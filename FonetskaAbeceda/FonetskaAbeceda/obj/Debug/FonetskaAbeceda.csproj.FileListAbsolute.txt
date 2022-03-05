@@ -1,0 +1,8 @@
+C:\Users\Marko\source\repos\Vjezbe1\FonetskaAbeceda\FonetskaAbeceda\bin\Debug\FonetskaAbeceda.exe.config
+C:\Users\Marko\source\repos\Vjezbe1\FonetskaAbeceda\FonetskaAbeceda\bin\Debug\FonetskaAbeceda.exe
+C:\Users\Marko\source\repos\Vjezbe1\FonetskaAbeceda\FonetskaAbeceda\bin\Debug\FonetskaAbeceda.pdb
+C:\Users\Marko\source\repos\Vjezbe1\FonetskaAbeceda\FonetskaAbeceda\obj\Debug\FonetskaAbeceda.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\Vjezbe1\FonetskaAbeceda\FonetskaAbeceda\obj\Debug\FonetskaAbeceda.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\source\repos\Vjezbe1\FonetskaAbeceda\FonetskaAbeceda\obj\Debug\FonetskaAbeceda.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Vjezbe1\FonetskaAbeceda\FonetskaAbeceda\obj\Debug\FonetskaAbeceda.exe
+C:\Users\Marko\source\repos\Vjezbe1\FonetskaAbeceda\FonetskaAbeceda\obj\Debug\FonetskaAbeceda.pdb
