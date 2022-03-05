@@ -1,0 +1,8 @@
+C:\Users\Marko\source\repos\Vjezbe1\TemperatureZraka2\TemperatureZraka2\bin\Debug\TemperatureZraka2.exe.config
+C:\Users\Marko\source\repos\Vjezbe1\TemperatureZraka2\TemperatureZraka2\bin\Debug\TemperatureZraka2.exe
+C:\Users\Marko\source\repos\Vjezbe1\TemperatureZraka2\TemperatureZraka2\bin\Debug\TemperatureZraka2.pdb
+C:\Users\Marko\source\repos\Vjezbe1\TemperatureZraka2\TemperatureZraka2\obj\Debug\TemperatureZraka2.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\Vjezbe1\TemperatureZraka2\TemperatureZraka2\obj\Debug\TemperatureZraka2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\source\repos\Vjezbe1\TemperatureZraka2\TemperatureZraka2\obj\Debug\TemperatureZraka2.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Vjezbe1\TemperatureZraka2\TemperatureZraka2\obj\Debug\TemperatureZraka2.exe
+C:\Users\Marko\source\repos\Vjezbe1\TemperatureZraka2\TemperatureZraka2\obj\Debug\TemperatureZraka2.pdb
