@@ -11,7 +11,7 @@ namespace Godine
         static void Main(string[] args)
         {
             Console.WriteLine("Unesi godinu rođenja: ");
-            int prezivjelePrijestupneGodine = 0;  
+            int prezivjelePrijestupneGodine = 0;  //branch test
             int godina = int.Parse(Console.ReadLine());
             int trenutnaGodina = System.DateTime.Today.Year;
             int starostKorisnika = trenutnaGodina-godina;
