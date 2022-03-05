@@ -1,0 +1,8 @@
+C:\Users\Marko\source\repos\Vjezbe1\NogometneUtakmice2\NogometneUtakmice2\bin\Debug\NogometneUtakmice2.exe.config
+C:\Users\Marko\source\repos\Vjezbe1\NogometneUtakmice2\NogometneUtakmice2\bin\Debug\NogometneUtakmice2.exe
+C:\Users\Marko\source\repos\Vjezbe1\NogometneUtakmice2\NogometneUtakmice2\bin\Debug\NogometneUtakmice2.pdb
+C:\Users\Marko\source\repos\Vjezbe1\NogometneUtakmice2\NogometneUtakmice2\obj\Debug\NogometneUtakmice2.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\Vjezbe1\NogometneUtakmice2\NogometneUtakmice2\obj\Debug\NogometneUtakmice2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\source\repos\Vjezbe1\NogometneUtakmice2\NogometneUtakmice2\obj\Debug\NogometneUtakmice2.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Vjezbe1\NogometneUtakmice2\NogometneUtakmice2\obj\Debug\NogometneUtakmice2.exe
+C:\Users\Marko\source\repos\Vjezbe1\NogometneUtakmice2\NogometneUtakmice2\obj\Debug\NogometneUtakmice2.pdb
