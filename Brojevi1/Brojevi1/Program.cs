@@ -22,7 +22,7 @@ namespace Brojevi1
                 {
                     Console.WriteLine("Krivi unos!");
                 }
-            } while (broj<1 && broj>99);
+            } while (broj<1 && broj>99); //komentar
             Console.WriteLine("Rezultat: " +(broj * 2.1));
             Console.ReadLine();
         }
