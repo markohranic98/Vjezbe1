@@ -33,11 +33,11 @@ namespace StarostOsobe
                     mjesec = i + 1;
                 }
             }
-            if(int.Parse(currentMonth) < mjesec)
+            if(int.Parse(currentMonth) < mjesec || (int.Parse(currentMonth) == mjesec && int.Parse(currentDay) <day))
             {
                 Console.WriteLine("Dana " + day + "." + mjesec + "." + currentYear + " ćete napuniti " + (int.Parse(currentYear) - initialYear) + " godina");
             }
-            else if (int.Parse(currentMonth) >= mjesec)
+            else if (int.Parse(currentMonth) >= mjesec || (int.Parse(currentMonth) == mjesec && int.Parse(currentDay) >= day))
             {
                 Console.WriteLine("Dana " + day + "." + mjesec + "." + currentYear + " ste napunili " + (int.Parse(currentYear) - initialYear) + " godina");
             }
