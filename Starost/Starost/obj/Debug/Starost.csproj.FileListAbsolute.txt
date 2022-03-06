@@ -6,3 +6,11 @@ C:\Users\Marko\source\repos\Vjezbe1\Starost\Starost\obj\Debug\Starost.csproj.Sug
 C:\Users\Marko\source\repos\Vjezbe1\Starost\Starost\obj\Debug\Starost.csproj.CoreCompileInputs.cache
 C:\Users\Marko\source\repos\Vjezbe1\Starost\Starost\obj\Debug\Starost.exe
 C:\Users\Marko\source\repos\Vjezbe1\Starost\Starost\obj\Debug\Starost.pdb
+C:\Users\ideapad\Documents\GitHub\Vjezbe1\Starost\Starost\bin\Debug\Starost.exe.config
+C:\Users\ideapad\Documents\GitHub\Vjezbe1\Starost\Starost\bin\Debug\Starost.exe
+C:\Users\ideapad\Documents\GitHub\Vjezbe1\Starost\Starost\bin\Debug\Starost.pdb
+C:\Users\ideapad\Documents\GitHub\Vjezbe1\Starost\Starost\obj\Debug\Starost.csproj.AssemblyReference.cache
+C:\Users\ideapad\Documents\GitHub\Vjezbe1\Starost\Starost\obj\Debug\Starost.csproj.SuggestedBindingRedirects.cache
+C:\Users\ideapad\Documents\GitHub\Vjezbe1\Starost\Starost\obj\Debug\Starost.csproj.CoreCompileInputs.cache
+C:\Users\ideapad\Documents\GitHub\Vjezbe1\Starost\Starost\obj\Debug\Starost.exe
+C:\Users\ideapad\Documents\GitHub\Vjezbe1\Starost\Starost\obj\Debug\Starost.pdb

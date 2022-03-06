@@ -20,7 +20,7 @@ namespace Starost
 
             int yearDiff = currentYear - godina; // 2. mjesec 2020 = 23 mjeseca
             int monthDiff = currentMonth - mjesec; //
-            int rezultat = yearDiff * 12 - monthDiff;
+            int rezultat = yearDiff * 12 + monthDiff;
             Console.WriteLine(rezultat + " mjeseci");
             Console.WriteLine(rezultat * 30 + " dana");
             Console.ReadLine();
